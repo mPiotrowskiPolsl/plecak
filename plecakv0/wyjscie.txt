@@ -1,0 +1,213 @@
+Najlepsze rozwiazania z kazdej generacji: 
+
+
+================== - 1 - ==================
+Nazwa               waga                Wartosc     
+
+laptop              2.2                 4000        
+monitor             4.5                 1500        
+tablet              0.5                 900         
+czajnik             1.5                 130         
+smartfon            0.2                 1200        
+bizuteria           0.2                 500         
+laptop              2.2                 4000        
+mysz                0.2                 100         
+glosniki            0.5                 300         
+
+
+waga: 12
+WARTOSC: 12630
+===========================================
+
+
+================== - 2 - ==================
+Nazwa               waga                Wartosc     
+
+lampa               2                   150         
+aparat              1.2                 3500        
+czajnik             1.5                 130         
+laptop              2.2                 4000        
+laptop              2.2                 4000        
+mysz                0.2                 100         
+tablet              0.5                 900         
+smartfon            0.2                 1200        
+mysz                0.2                 100         
+kubek               0.5                 20          
+kubek               0.5                 20          
+glosniki            0.5                 300         
+smartfon            0.2                 1200        
+
+
+waga: 11.9
+WARTOSC: 15620
+===========================================
+
+
+================== - 3 - ==================
+Nazwa               waga                Wartosc     
+
+lampa               2                   150         
+aparat              1.2                 3500        
+czajnik             1.5                 130         
+laptop              2.2                 4000        
+laptop              2.2                 4000        
+mysz                0.2                 100         
+tablet              0.5                 900         
+smartfon            0.2                 1200        
+mysz                0.2                 100         
+kubek               0.5                 20          
+kubek               0.5                 20          
+glosniki            0.5                 300         
+smartfon            0.2                 1200        
+
+
+waga: 11.9
+WARTOSC: 15620
+===========================================
+
+
+================== - 4 - ==================
+Nazwa               waga                Wartosc     
+
+lampa               2                   150         
+aparat              1.2                 3500        
+czajnik             1.5                 130         
+laptop              2.2                 4000        
+laptop              2.2                 4000        
+mysz                0.2                 100         
+tablet              0.5                 900         
+smartfon            0.2                 1200        
+mysz                0.2                 100         
+kubek               0.5                 20          
+kubek               0.5                 20          
+glosniki            0.5                 300         
+smartfon            0.2                 1200        
+
+
+waga: 11.9
+WARTOSC: 15620
+===========================================
+
+
+================== - 5 - ==================
+Nazwa               waga                Wartosc     
+
+laptop              2.2                 4000        
+tablet              0.5                 900         
+aparat              1.2                 3500        
+smartfon            0.2                 1200        
+mysz                0.2                 100         
+bizuteria           0.2                 500         
+kubek               0.5                 20          
+laptop              2.2                 4000        
+smartfon            0.2                 1200        
+glosniki            0.5                 300         
+
+
+waga: 7.9
+WARTOSC: 15720
+===========================================
+
+
+================== - 6 - ==================
+Nazwa               waga                Wartosc     
+
+laptop              2.2                 4000        
+tablet              0.5                 900         
+aparat              1.2                 3500        
+smartfon            0.2                 1200        
+mysz                0.2                 100         
+bizuteria           0.2                 500         
+kubek               0.5                 20          
+laptop              2.2                 4000        
+smartfon            0.2                 1200        
+glosniki            0.5                 300         
+
+
+waga: 7.9
+WARTOSC: 15720
+===========================================
+
+
+================== - 7 - ==================
+Nazwa               waga                Wartosc     
+
+laptop              2.2                 4000        
+tablet              0.5                 900         
+aparat              1.2                 3500        
+smartfon            0.2                 1200        
+mysz                0.2                 100         
+bizuteria           0.2                 500         
+kubek               0.5                 20          
+laptop              2.2                 4000        
+smartfon            0.2                 1200        
+glosniki            0.5                 300         
+
+
+waga: 7.9
+WARTOSC: 15720
+===========================================
+
+
+================== - 8 - ==================
+Nazwa               waga                Wartosc     
+
+kubek               0.5                 20          
+laptop              2.2                 4000        
+tablet              0.5                 900         
+aparat              1.2                 3500        
+smartfon            0.2                 1200        
+mysz                0.2                 100         
+bizuteria           0.2                 500         
+kubek               0.5                 20          
+laptop              2.2                 4000        
+smartfon            0.2                 1200        
+glosniki            0.5                 300         
+
+
+waga: 8.4
+WARTOSC: 15740
+===========================================
+
+
+================== - 9 - ==================
+Nazwa               waga                Wartosc     
+
+kubek               0.5                 20          
+laptop              2.2                 4000        
+tablet              0.5                 900         
+aparat              1.2                 3500        
+smartfon            0.2                 1200        
+mysz                0.2                 100         
+bizuteria           0.2                 500         
+kubek               0.5                 20          
+laptop              2.2                 4000        
+smartfon            0.2                 1200        
+glosniki            0.5                 300         
+
+
+waga: 8.4
+WARTOSC: 15740
+===========================================
+
+
+================== - 10 - ==================
+Nazwa               waga                Wartosc     
+
+kubek               0.5                 20          
+laptop              2.2                 4000        
+tablet              0.5                 900         
+aparat              1.2                 3500        
+smartfon            0.2                 1200        
+mysz                0.2                 100         
+bizuteria           0.2                 500         
+kubek               0.5                 20          
+laptop              2.2                 4000        
+smartfon            0.2                 1200        
+glosniki            0.5                 300         
+
+
+waga: 8.4
+WARTOSC: 15740
+===========================================
+

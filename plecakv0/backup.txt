@@ -1,0 +1,151 @@
+//plecak** Gens = new plecak * [genCount];
+
+	//std::list<std::list<plecak>> generacje;
+	//plecak** Gens = new plecak * [genCount];
+	//Gens[genCount][indPerGen]
+	//zwalnianie pamieci do zrobienia
+
+	/*for (int i = 0; i < genCount; i++) {
+		Gens[i] = new plecak[indPerGen];
+	}*/
+
+	//generowanie pierwszej generacji
+	
+
+	//std::list<plecak> tmpplecak;
+	//tmpplecak.push_back({});
+	//Gens[1] = new plecak[indPerGen];
+	////generacje.push_back();
+
+	//for (int i = 0; i < indPerGen; i++) {
+	//	bool* repeated = new bool[pula.size()] {};
+	//	int rollCnt = 0;
+	//	for (;;) {
+	//		przedmiot los = wybierzzPuli(pula);
+	//		if (rollCnt <= pula.size()) {
+	//			if (repeated[los.id] == false) {
+	//				//std::cout << "POROWNANIE: " << Gens[1][i].masa + los.masa << "\n";
+	//				if ((Gens[1][i].masa + los.masa) <= maxLoad) {
+	//					Gens[1][i].Przdmt.push_back(los);
+	//					Gens[1][i].masa += los.masa;
+	//					Gens[1][i].wartosc += los.wartosc;
+	//					repeated[los.id] = true;
+	//				}
+	//				rollCnt++;
+	//			}
+	//		}
+	//		else break;
+
+
+	//	}
+	//};
+	
+	//Gens[1] = new plecak[indPerGen];
+	//for (int i = 0; i < indPerGen; i++) {
+	//	bool* repeated = new bool[pula.size()] {};
+	//	int rollCnt = 0;
+	//	for (;;) {
+	//		przedmiot los = wybierzzPuli(pula);
+	//		if (rollCnt <= pula.size()) {
+	//			if (repeated[los.id] == false) {
+	//				//std::cout << "POROWNANIE: " << Gens[1][i].masa + los.masa << "\n";
+	//				if ((Gens[1][i].masa + los.masa) <= maxLoad) {
+	//					Gens[1][i].Przdmt.push_back(los);
+	//					Gens[1][i].masa += los.masa;
+	//					Gens[1][i].wartosc += los.wartosc;
+	//					repeated[los.id] = true;
+	//				}
+	//				rollCnt++;
+	//			} 
+	//		}
+	//		else break;
+	//		
+	//		
+	//	}
+	//};
+
+	/*for (int i = 0; i < indPerGen; i++) {
+		bool* repeated = new bool[pula.size()] {};
+		int rollCnt = 0;
+		for (;;) {
+			przedmiot los = wybierzzPuli(pula);
+			if (rollCnt <= pula.size()) {
+				if (repeated[los.id] == false) {
+					std::cout << "POROWNANIE: " << gen1[i].masa + los.masa << "\n";
+					if ((gen1[i].masa + los.masa) <= maxLoad) {
+						gen1[i].Przdmt.push_back(los);
+						gen1[i].masa += los.masa;
+						gen1[i].wartosc += los.wartosc;
+						repeated[los.id] = true;
+					}
+					rollCnt++;
+				}
+			}
+			else break;
+
+
+		}
+	};*/
+	
+
+
+	//wyswietlanie
+	/*for (int i = 0; i < indPerGen; i++) {
+		for (int j = 0; j < Gens[1][i].Przdmt.size(); j++) {
+			std::cout << std::left << std::setw(12) << Gens[1][i].Przdmt[j].nazwaP << Gens[1][i].Przdmt[j].masa <<" "<< Gens[1][i].Przdmt[j].wartosc << "\n";
+		}
+		std::cout << "				MASA: " << Gens[1][i].masa << std::endl;
+		std::cout << "				WARTOSC: " << Gens[1][i].wartosc << std::endl;
+	}*/
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*for (int j = 0; j < indPerGen; j++)
+	{
+		float temp_Load=0;
+		std::vector<przedmiot> temp_vec;
+		while (temp_Load<maxLoad)
+		{
+			przedmiot temp_item = pula[rand_int(0, pula.size()-1)];
+			temp_vec.push_back(temp_item);
+			temp_Load += temp_item.masa;
+		}
+		gen1.push_back(temp_vec);
+	}
+	gen1.shrink_to_fit();
+	std::cout << gen1.size();
+	for (int j = 0; j < indPerGen; j++) {
+		float e_masa = 0;
+		for (int i = 0; i < gen1[j].size(); i++) {
+			std::cout << gen1[j][i].nazwaP << std::endl;
+			e_masa += gen1[j][i].masa;
+		}
+		std::cout << e_masa << std::endl << std::endl;
+
+	}*/
